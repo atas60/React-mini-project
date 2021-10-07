@@ -62,13 +62,13 @@ class App extends Component {
           </div>
           <div style={{ marginTop: "50px" }} className="container">
             <button onClick={this.handleAddClown} >
-              Ajouter 🤡
+              Ajouter le 🤡
             </button>
             <button onClick={this.handleDeleteClown} >
-              Supprimer 🤡
+              Supprimer le 🤡
             </button>
             <button onClick={this.handleChangeClown} >
-              Modifier 🤡
+              Modifier le 🤡
             </button>
           </div>
         </div>
